@@ -1,0 +1,17 @@
+#Make sure you install these libraries
+pyttsx3
+SpeechRecognition
+wikipedia
+webbrowser
+pyjokes
+feedparser
+requests
+twilio
+beautifulsoup4
+pyaudio
+tkinter
+pyautogui
+ecapture
+pytube
+winshell
+pywin32
